@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.line {
+  padding-right: 10px;
+}
+
+.question {
+  padding-top: 10px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
